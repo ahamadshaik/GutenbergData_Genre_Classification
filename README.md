@@ -1,6 +1,7 @@
 # Gutenberg Data_Genre_Classification
 - Genre Identification on subset of a Gutenberg corpus.
 - Assigning a book to its genre, using various supervised models and compare the performance.
+- Achieved an Accuracy of 96%.
 
 ## Dataset:
 - The corpus consist of 996 HTML files. Each file is a fiction book.
